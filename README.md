@@ -1,4 +1,5 @@
 # A Case for Combatting the Climate Crisis: Predictive Trends in U.S.A. Greenhouse Gas Emissions
+Victoria Feist, DS4002, Spring 2023
 
 ## Contents of this Repository
 - Hook file
